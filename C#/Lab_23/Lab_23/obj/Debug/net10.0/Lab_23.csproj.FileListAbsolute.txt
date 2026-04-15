@@ -1,0 +1,14 @@
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\bin\Debug\net10.0\Lab_23.exe
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\bin\Debug\net10.0\Lab_23.deps.json
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\bin\Debug\net10.0\Lab_23.runtimeconfig.json
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\bin\Debug\net10.0\Lab_23.dll
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\bin\Debug\net10.0\Lab_23.pdb
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\Lab_23.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\Lab_23.AssemblyInfoInputs.cache
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\Lab_23.AssemblyInfo.cs
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\Lab_23.csproj.CoreCompileInputs.cache
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\Lab_23.dll
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\refint\Lab_23.dll
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\Lab_23.pdb
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\Lab_23.genruntimeconfig.cache
+E:\VS\C#\ФФМЕІТ\ООП\Lab_23\Lab_23\obj\Debug\net10.0\ref\Lab_23.dll
